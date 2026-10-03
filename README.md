@@ -1,20 +1,14 @@
 # The Focused Agent
 
-I wrote The Focused Agent as a practical field guide for making coding-agent work repeatable and reviewable.
+The Focused Agent is a field guide for coding-agent work where “done” needs evidence. FOCUS gives a task five steps: **Frame** it, **Orient** the agent, **Constrain** the action, **Use** the right worker, and **Show** the evidence.
 
-## The FOCUS method
+## Use it on a real task
 
-- **Frame** the task and what counts as done.
-- **Orient** the agent with the project context.
-- **Constrain** the actions it can take.
-- **Use** the right worker for the task.
-- **Show** the evidence at the end.
+The toolkit includes ten editable forms, a printable handbook, and a completed example. I wanted the method to be something a developer can pull into the next assignment, with a record a person can review at the end.
 
-I paired the method with ten editable forms, a printable handbook, and a completed example so it can be used on real work.
-
-This repository contains project notes and links, not application source.
+This repository contains project notes and links, not the guide or application source.
 
 ## Links
 
 - [The Focused Agent](https://thefocusedagent.link)
-- [Portfolio project notes](https://portfolio.aerovisus.com/#the-focused-agent)
+- [Portfolio notes](https://portfolio.aerovisus.com/#the-focused-agent)
